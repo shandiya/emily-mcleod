@@ -2,7 +2,7 @@
 title: "Emily McLeod"
 about:
   template: jolla
-  image: em2.png
+  image: emily.png
   links:
     - text: LinkedIn
       href: "https://www.linkedin.com/in/emily-mcleod-20818151/?originalSubdomain=au"
