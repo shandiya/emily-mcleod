@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 41486e17-2054-455e-87e7-d3f253cbb62a
+      url: 'https://fastidious-parfait-9ca4a4.netlify.app'
