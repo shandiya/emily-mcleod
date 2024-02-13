@@ -1,0 +1,54 @@
+---
+title: "Publications"
+format:
+  html:
+    toc: false
+---
+
+## Book Chapters  
+
+**McLeod EM**, Fielding KS, Dean AJ (2024) Understanding and Improving the Visitor Experience: How Can We Increase the Positive Social Impact of Animal–Visitor Interactions? In Fernandez EJ & Sherwen S (Eds.) *Human-Animal Interactions in Zoos and Aquariums: Merging Exotic Animal Welfare Science and Practice*, CABI  
+
+## Publications  
+
+Henson E, **McLeod EM**, Weston MA, & Miller KK (2023) Bird feeding at urban wetlands: A comparison of demographics, attitudes and norms between feeders and non-feeders. *Science of The Total Environment*, 891, 164060.  
+
+Pearson EL, Mellish S, **McLeod EM**, Sanders B, & Ryan JC (2022) Can we save Australia’s endangered wildlife by increasing species recognition? *Journal for Nature Conservation*, 69, 126257.  
+
+Shaw MN, Borrie WT, **McLeod EM**, & Miller KK (2022) Wildlife Photos on Social Media: A Quantitative Content Analysis of Conservation Organisations’ Instagram Images. *Animals*, 12(14), 1787.  
+
+Shaw MN, **McLeod EM**, Borrie WT, & Miller KK (2021) Human positioning in close-encounter photographs and the effect on public perceptions of zoo animals. *Animals*, 12(1), 11.  
+
+Mellish S, Ryan JC, **McLeod EM**, Tuckey MR, & Pearson EL (2021) Challenges and successes to the implementation of a zoo conservation-education program. *Evaluation and Program Planning*, 88, 101950.  
+
+van Eeden, LM, Hames, F, Faulkner, R, Geschke, A, Squires, ZE, & **McLeod, EM** (2021) Putting the cat before the wildlife: Exploring cat owners' beliefs about cat containment as predictors of owner behavior. *Conservation Science and Practice*, 3(10), e502.  
+
+Selinske MJ, Garrard GE, Gregg EA, Kusmanoff AM, Kidd LR, Cullen MT, Cooper M, Geary WL, Hatty MA, Hames F, Kneebone S, **McLeod EM**, Richie EG, Squires ZE, Thomas J, Willcock MAW, Blair S, Bekessy SA (2020) Identifying and prioritizing human behaviors that benefit biodiversity. *Conservation Science and Practice*,.e249  
+
+Carter M., Webber S., Rawson S., Smith W., **McLeod EM** (2020) Virtual Reality in the Zoo: A Qualitative Evaluation of a Stereoscopic Virtual Reality Video Encounter with Little Penguins (*Eudyptula minor*), *Journal of Zoo and Aquarium Research*, 8(4): 239-245  
+
+Carruthers D, **McLeod EM**, Costa K, Miller K, Parrott M (2020) Migrating moths and alpine possums: mobilising community across Eastern Australia, *International Zoo Educators Association Journal*, 56  
+
+Mellish S, Pearson E, **McLeod EM**, Tuckey M, Ryan J (2019) What goes up must come down: A 6 month outcome evaluation of Zoos Victoria’s “When Balloons Fly” conservation-education program for balloon litter on visitor cognition, affect, and behaviour, *Journal of Sustainable Tourism*, 27(9):1393 - 1415  
+
+Howell T, **McLeod EM**, Coleman GJ (2019) When Zoo Visitors ‘Connect’ With a Zoo Animal, What Does That Mean? *Zoo Biology*, 1-10  
+
+Elliott A, Howell T, **McLeod EM**, Bennett PC (2019), Perceptions of Responsible Cat Ownership Behaviors among a Convenience Sample of Australians, *Animals*, 9(9), 703-13  
+
+**McLeod EM** & Rawson, S (2019) Lord Howe Island Stick Insect Encounters: Does anyone care? *International Zoo Educators Association Journal*, 55  
+
+Guay P-J, van Dongen WFD, **McLeod EM**, Whisson DA, Vu HQ, Wang H, Weston MA (2018) Does zonation and accessibility of wetlands influence human presence and mediate wildlife disturbance?, *Journal of Environmental Planning Management*, DOI: 10.1080/09640568.2018.1495066. 
+
+McLeod, E., Sanders, B., & Wilson. L. (2018) Blowing bubbles to save seabird; A zoo-based community conservation program, *IZE Journal*  
+
+van Dongen WFD, **McLeod EM**, Mulder RA, Weston MA, Guay P-J (2015) The height of approaching humans does not affect flight-initiation distance. *Bird Study* 62(2): 285-288  
+
+Weston MA, Guay P-J, **McLeod EM**, Miller KM (2015) Do birdwatchers care about bird disturbance? *Anthrozoos* 28(2): 305-317  
+
+Guay P-J, **McLeod EM**, Taysom AT, Weston MA (2014) Are vehicles ‘mobile bird hides’? A test of the hypothesis that ‘cars cause less disturbance’. *The Victorian Naturalist* 131(4): 150-155  
+
+Guay P-J, **McLeod EM**, Cross R, Formby A, Maldonado S, Stafford-Bell R, St-James-Turner Z, Robinson RW, Mulder RA, Weston MA (2013) Observer effects occur when estimating alert but not flight initiation distances. *Wildlife Research* 40(4): 289-293  
+
+**McLeod EM**, Guay P-J, Taysom AT, Robinson RW, Weston MA (2013) Buses, cars, bicycles and walkers; the influence of the type of human transport on the flight responses of waterbirds. *PLoS ONE* 8(12): e82008  
+
+Weston MA, **McLeod EM**, Blumstein DT, Guay P-J (2012) A review of flight initiation distances and their application to managing disturbance to Australian birds. *Emu* 112: 269-286  

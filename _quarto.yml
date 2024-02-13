@@ -2,13 +2,17 @@ project:
   type: website
 
 website:
+  search: false
   title: "Emily McLeod"
+  navbar:
+    left:
+      - text: "Publications"
+        href: publications.qmd
 
 format:
   html:
     theme: custom-theme.scss
     css: styles.css
-    toc: true
 
 editor: visual
-
+ 
